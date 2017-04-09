@@ -1,6 +1,6 @@
 # vuejs_and_jquery
 
-> A simple project to show how to integrate jquery in to a vuejs project
+Simple project to show how to use jquery in a vuejs project. Jquery is imported in to every component separately
 
 ## Build Setup
 
@@ -17,7 +17,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-Simple project to show how to use jquery in a vuejs project. Jquery is imported in to every component separately
